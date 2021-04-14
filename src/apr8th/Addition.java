@@ -9,6 +9,8 @@ public class Addition {
 		System.out.println("sum is "+(x+y));
 	}
 	
+	
+	
 	public void sum(int x,int y,int z)
 	{
 		

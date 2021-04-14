@@ -4,7 +4,7 @@ public class Clock {
 	
 	int hr,min,sec;
 	
-	public void Clock()
+	public  Clock()
 	{
 		
 		System.out.println("You have Entered in Clock Construtor");
