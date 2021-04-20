@@ -2,6 +2,11 @@ package apr8th;
 
 public class Addition {
 
+	public Addition()
+	{
+		System.out.println("This is Constructor");
+		
+	}
 	
 	public void sum(int x,int y)
 	{
